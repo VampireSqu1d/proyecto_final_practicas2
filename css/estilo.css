@@ -1,0 +1,21 @@
+.nombre {
+    text-align: center;
+    font-size: 40px;
+
+}
+
+nav {
+    align-items: flex-end;
+}
+
+.caption {
+    text-align: center;
+    background-color: azure;
+    font-size: 18px;
+}
+
+table {
+    padding: 5px;
+    margin: 10px;;
+    background-color: aqua;
+}
